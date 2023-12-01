@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StockApp.Business.Entities.Abstract
+namespace StockApp.Business.Abstract
 {
-    internal class EntidadeCadastro
+    public abstract class EntidadeCadastro : EntidadeBase
     {
+        public string Nome { get; set; }
+        public int Status { get; set; }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace StockApp.Business.Interfaces
 {
-    internal interface ICategoriaRepositorio
+    public interface ICategoriaRepositorio
     {
+
     }
 }

@@ -13,10 +13,11 @@ namespace StockApp.Business.Interfaces
         bool Incluir(Categoria categoria);
         bool Atualizar(Categoria categoria);
         bool Remover(int Id);
+        bool Ativar(int Id);
+        bool Inativar(int id);
 
-
-
-
-
+        Categoria ObterPorId(int id);
+        List<Categoria> ObterTodos();
+        List<Categoria> ObterTodasAtivas();
     }
 }
