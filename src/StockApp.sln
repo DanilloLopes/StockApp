@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.Business", "Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.DataAcess", "DataAcess\StockApp.DataAcess\StockApp.DataAcess.csproj", "{81A209E6-8BBB-47DD-99C0-2E245A4D4AC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.Presentation", "Presentation\StockApp.Presentation\StockApp.Presentation.csproj", "{14A12B97-C935-4E08-8308-85DD5B87742B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockApp.WindowsForms", "Presentation\StockApp.WindowsForms\StockApp.WindowsForms.csproj", "{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{81A209E6-8BBB-47DD-99C0-2E245A4D4AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A209E6-8BBB-47DD-99C0-2E245A4D4AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A209E6-8BBB-47DD-99C0-2E245A4D4AC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14A12B97-C935-4E08-8308-85DD5B87742B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14A12B97-C935-4E08-8308-85DD5B87742B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14A12B97-C935-4E08-8308-85DD5B87742B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14A12B97-C935-4E08-8308-85DD5B87742B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,7 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{009125C0-4187-49DF-BF21-003DF62D004C} = {E662980A-0927-4921-BBB7-52B4ED320FC2}
 		{81A209E6-8BBB-47DD-99C0-2E245A4D4AC8} = {EAB74809-92EE-4656-8286-400539F69441}
-		{14A12B97-C935-4E08-8308-85DD5B87742B} = {43C79121-8123-4E38-9F2C-DC14204F624B}
+		{B4F6E3A1-CCA6-47AB-BFFF-B863CD3702C2} = {43C79121-8123-4E38-9F2C-DC14204F624B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F017BD1-9FED-494C-91E9-012ECBD63ED3}

@@ -1,4 +1,4 @@
-﻿namespace StockApp.Presentation
+﻿namespace StockApp.WindowsForms
 {
     partial class Form1
     {

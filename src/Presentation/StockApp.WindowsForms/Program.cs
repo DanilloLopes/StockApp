@@ -1,4 +1,4 @@
-namespace StockApp.Presentation
+namespace StockApp.WindowsForms
 {
     internal static class Program
     {
