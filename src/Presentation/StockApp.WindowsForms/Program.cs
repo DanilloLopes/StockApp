@@ -1,4 +1,4 @@
-using StockApp.WindowsForms.Cadastros;
+using StockApp.WindowsForms.Registers;
 
 namespace StockApp.WindowsForms
 {

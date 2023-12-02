@@ -9,6 +9,6 @@ namespace StockApp.Business.Abstract
     public abstract class EntidadeCadastro : EntidadeBase
     {
         public string Nome { get; set; }
-        public int Status { get; set; }
+        public bool Status { get; set; }
     }
 }
