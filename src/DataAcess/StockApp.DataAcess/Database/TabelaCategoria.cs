@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace StockApp.DataAcess.Database
 {
-    internal class TabelaCategoria
+    public static class TabelaCategoria
     {
+        public static string CriarTabela()
+        {
+            return "";
+        }
+        public static string PopularTabela()
+        {
+            return "";
+        }
     }
 }
